@@ -1,3 +1,4 @@
+# Денис Моисеенко
 import math
 import random
 
